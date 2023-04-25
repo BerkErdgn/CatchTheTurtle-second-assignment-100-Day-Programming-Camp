@@ -26,5 +26,3 @@ def counterdown(countertime):
 
 game_screen.onclick(lambda x,y : counterdown(30))
 '''
-
-
