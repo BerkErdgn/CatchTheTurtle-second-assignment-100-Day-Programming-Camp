@@ -10,9 +10,9 @@ In this project, it calculates how many times you've pressed the turtle in 30 se
 
 ## Screenshots
 
-Game Screen | End Screen  
- --- | --- |  
-![](https://github.com/BerkErdgn/CatchTheTurtle-second-assignment-100-Day-Programming-Camp/blob/main/sc/1.PNG?raw=true) |![](https://github.com/BerkErdgn/CatchTheTurtle-second-assignment-100-Day-Programming-Camp/blob/main/sc/2.PNG?raw=true)
+Starting Screen | Game Screen | End Screen  
+ --- | --- |  --- | 
+![](https://github.com/BerkErdgn/CatchTheTurtle-second-assignment-100-Day-Programming-Camp/blob/main/sc/3.PNG?raw=true)|![](https://github.com/BerkErdgn/CatchTheTurtle-second-assignment-100-Day-Programming-Camp/blob/main/sc/1.PNG?raw=true) |![](https://github.com/BerkErdgn/CatchTheTurtle-second-assignment-100-Day-Programming-Camp/blob/main/sc/2.PNG?raw=true) 
 
 
 
